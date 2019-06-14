@@ -1,2 +1,1 @@
-test sign commit:q
-::wq
+test sign commit
